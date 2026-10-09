@@ -17,6 +17,8 @@ sections:
     pictures: # Image to show, this follows the same rules as the pictures section in config/index.yml
       - desc: "Robot from the top"
         url: "/imgs/robot/2025-2026/robot.avif"
+      - desc: "The Shooter Mechanism"
+        url: "/imgs/robot/2025-2026/shoot.avif"
 
   - id: "2024-2025" # This id is used for the table of contents, and for linking to the section. For example, this would be /robot#2022-2023 (NOTE: This value must be unique and cannot contain spaces)
     title: "2024 - 2025 Design" # The title of the section, displayed above the photos
